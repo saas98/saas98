@@ -66,6 +66,7 @@
 
 ## Projects
 
+- [https://socialest.net](https://socialest.net) [(private yet)](https://github.com/saas98/soc-landing)
 - [https://meet.airtime.com](https://meet.airtime.com) [(public)](https://github.com/saas98/airtime-meet)
 - [https://app.rylka.ai](https://app.rylka.ai) [(private yet)](https://github.com/saas98/rylka)
 - [https://nefentus.com](https://nefentus.com) [(private)](https://github.com/saas98/nefentus-website)
